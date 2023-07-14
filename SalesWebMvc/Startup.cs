@@ -15,7 +15,7 @@ using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Models;
 using SalesWebMvc.Data;
 using SalesWebMvc.Services;
-
+/*teste startup*/
 namespace SalesWebMvc
 {
     public class Startup
